@@ -66,3 +66,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Please note that all files supplied in the 'Server Side Code' folder needs to be hosted on a web server  and allowed to be executed ### by any entity (CHMOD 777). Also upon uploading these files to the server root from which we are serving files to the world wide web, ### we must also create two directories in this root directory 'Source Files' and 'Base Files' respectively which will hold all source ### files and base files respectively that a user uploads
